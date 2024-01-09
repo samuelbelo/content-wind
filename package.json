@@ -10,6 +10,6 @@
   "devDependencies": {
     "@nuxt/devtools": "^0.8.0",
     "content-wind": "latest",
-    "nuxt": "^3.6.5"
+    "nuxt": "^3.9.1"
   }
 }
